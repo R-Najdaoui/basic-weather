@@ -11,7 +11,7 @@ It fetches live weather data using the **OpenWeatherMap API** and shows:
 Check it out on GitHub Pages:
 https://r-najdaoui.github.io/basic-weather/
 ## Screenshot
-![Weather App Screenshot](./weather.png)
+![Weather App Screenshot](./weather.jpeg)
 Technologies Used
 
 HTML5
